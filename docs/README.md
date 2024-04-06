@@ -41,9 +41,9 @@ Agora você vai executar a sua aplicação Flask (python app.py) e testar as rot
 
 ## Fontes
 
-https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
-https://rapidapi.com/guides/api-caching-with-http-headers
-https://codedamn.com/news/backend/rest-api-caching-advanced-techniques
+(https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
+(https://rapidapi.com/guides/api-caching-with-http-headers)
+(https://codedamn.com/news/backend/rest-api-caching-advanced-techniques)
 
 ## Contribuições
 Eduardo Trova (10265570) : Eduardo foi responsável pela implementação do cache na aplicação e pela escrita de partes do tutorial.
