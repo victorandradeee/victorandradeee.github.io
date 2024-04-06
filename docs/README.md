@@ -47,5 +47,6 @@ https://codedamn.com/news/backend/rest-api-caching-advanced-techniques
 
 ## Contribuições
 Eduardo Trova (10265570) : Eduardo foi responsável pela implementação do cache na aplicação e pela escrita de partes do tutorial.
+
 Victor Andrade (10390648): Victor contribuiu com a configuração do ambiente de desenvolvimento e também ajudou na escrita e formatação do tutorial.
-## 
+
