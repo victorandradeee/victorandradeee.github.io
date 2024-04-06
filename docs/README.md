@@ -1,7 +1,7 @@
 # Passo a Passo
 
 ## Passo 1 - Inicialização do Aplicativo:
-Inicie seu aplicativo Flask em `app.py`.
+Primeiro, inicie  seu aplicativo Flask em `app.py`.
 
 ```python
 from flask import Flask
@@ -35,3 +35,17 @@ Implemente uma rota que use headers HTTP para controle de cache do lado do clien
 def news():
     response = make_response("Notícias recentes aqui")  # Deveria buscar dados reais
 ```
+
+## Passo 5 - Execução e Teste:
+Agora você vai executar a sua aplicação Flask (python app.py) e testar as rotas utilizando Postman ou uma ferramenta similar.
+
+## Fontes
+
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
+https://rapidapi.com/guides/api-caching-with-http-headers
+https://codedamn.com/news/backend/rest-api-caching-advanced-techniques
+
+## Contribuições
+Eduardo Trova (10265570) : Eduardo foi responsável pela implementação do cache na aplicação e pela escrita de partes do tutorial.
+Victor Andrade (10390648): Victor contribuiu com a configuração do ambiente de desenvolvimento e também ajudou na escrita e formatação do tutorial.
+## 
